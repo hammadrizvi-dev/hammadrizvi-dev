@@ -9,7 +9,7 @@
   </p>
 
   <p align="center">
-    <a href="https://hammadrizvi-dev.github.io"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+    <a href="https://hammadrizvi.tech/"><img src="https://img.shields.io/badge/Portfolio-C84B31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/hammadrizvi-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:Hammadrizvi346@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/hammadrizvi-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -35,7 +35,7 @@
 | **[SQL-Journey](https://github.com/hammadrizvi-dev/SQL-Journey)** | Structured MySQL & SQLite problem-solving (Joins, CTEs, Subqueries, Analytics) verified automatically via GitHub Actions | `MySQL` `SQLite` ![SQL CI](https://github.com/hammadrizvi-dev/SQL-Journey/actions/workflows/sql-ci.yml/badge.svg) |
 | **[Data-Science-Journey](https://github.com/hammadrizvi-dev/Data-Science-Journey)** | Hands-on NumPy, Pandas, Visualization (IPL & EDA), and Student Performance Analysis | `Python` `Pandas` `NumPy` `Seaborn` |
 | **[Chatify](https://github.com/hammadrizvi-dev/Chatify)** | Real-time messaging web app with JWT auth, Socket.IO, and MongoDB | `Node.js` `Express` `MongoDB` `Socket.IO` |
-| **[Portfolio Site](https://hammadrizvi-dev.github.io)** | Live personal developer portfolio & project showcase | `HTML` `CSS` `GitHub Pages` |
+| **[hammadrizvi.tech](https://hammadrizvi.tech/)** | Live editorial developer portfolio with interactive project previews & live code snippets | `HTML` `CSS` `JS` `GitHub Pages` |
 
 ---
 
