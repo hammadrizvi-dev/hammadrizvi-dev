@@ -10,9 +10,12 @@
 
   <p align="center">
     <a href="https://hammadrizvi.tech/"><img src="https://img.shields.io/badge/Portfolio-C84B31?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://hammadrizvi.tech/resume.html"><img src="https://img.shields.io/badge/Resume_/_CV-161614?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
     <a href="https://www.linkedin.com/in/hammadrizvi-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/Hammadrizvi_dev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://instagram.com/hammadrizvi_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://t.me/Hammadrizvi_dev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
     <a href="mailto:Hammadrizvi346@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/hammadrizvi-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
@@ -21,7 +24,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Pursuing **B.Tech in Computer Science & Design** (2024 – 2028), Meerut, India.
+- 🎓 **Education:** Pre-final year **B.Tech in Computer Science & Design (5th Sem)** at **WCTM, Farrukhnagar (MDU Rohtak)**.
+- 🏆 **Hackathons:** Participated in National/All-India College Hackathons, Unity Hackathon & Online Tech Hackathons (Solo & Team).
 - 🎯 **Focus:** Building production-style **Data Science, Advanced SQL, and AI Engineering (ML & RAG)** projects with live web demos and automated CI checks.
 - 💡 **Core Engineering Base:** Grounded in **Python, SQL, Java (OOPs), C, and Full-Stack Web (MERN)** — combining software engineering discipline with applied data & AI.
 - 🚀 **Currently Building:** Expanding **SQL-Journey** (CTEs, Window Functions, Analytics), upgrading live project previews, and shipping deployed **ML & GenAI/RAG** applications.
